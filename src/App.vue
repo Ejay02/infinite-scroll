@@ -75,13 +75,9 @@ body {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* text-align: center; */
-  /* background-color: #2c3e50; */
   background-color: #2f2f2f;
-  /* margin-top: 60px; */
   min-height: 100vh;
   padding-top: 3rem;
-  /* color: azure; */
   color: #ffcb74;
 }
 
@@ -95,7 +91,7 @@ header {
 
 main {
   padding: 0 2rem;
-  min-width: 640px;
+  max-width: 640px;
   margin: 0 auto;
 }
 </style>
